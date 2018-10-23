@@ -2,5 +2,7 @@
     <string name="app_name">Fragmentos-exptes</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expte_nro">Nro Expte</string>
+    <string name="expte_tema">TEMA</string>
+    <string name="expte_inic">Iniciador</string>
 </resources>
